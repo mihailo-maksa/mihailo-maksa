@@ -1,4 +1,4 @@
-## About Me
+## **About Me**
 
 As a seasoned and **highly skilled senior smart contract engineer,** I bring a deep passion and expertise in the crypto, decentralized finance (DeFi), and web3 space to every project. My specialty is in **solidity smart contract development** for a wide range of use cases, and I excel in collaborative environments with like-minded, driven individuals.
 
