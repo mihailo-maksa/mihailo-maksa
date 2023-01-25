@@ -8,4 +8,4 @@ I speak English with a native-level fluency, with a proven ability to communicat
 
 You can contact me via [email](mihajlomaksa9@gmail.com) or check out my [personal website](https://mihailomaksa.com) or [resume](https://mihailomaksa.com/Resume.pdf).
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/mihailo-maksa)
