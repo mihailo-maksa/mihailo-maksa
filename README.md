@@ -7,3 +7,5 @@ With a thorough understanding of DeFi, non-fungible tokens (NFTs), decentralized
 I speak English with a native-level fluency, with a proven ability to communicate effectively and collaborate remotely, making me a valuable asset to any team. With my combination of technical skills, industry knowledge and ability to work well in a remote setting, I am confident that I can bring significant value to any organization looking to leverage blockchain technology.
 
 You can contact me via [email](mihajlomaksa9@gmail.com) or check out my [personal website](https://mihailomaksa.com) or [resume](https://mihailomaksa.com/Resume.pdf).
+
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
