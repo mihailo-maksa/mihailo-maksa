@@ -8,4 +8,4 @@ Also, I speak English with a native-level fluency, and have **a proven ability 
 
 You can contact me via **[LinkedIn](https://www.linkedin.com/in/mihailomaksa)**, **[email](mailto:mihajlomaksa9@gmail.com)** or check out my **[personal website](https://mihailomaksa.com)** or **[resume](https://mihailomaksa.com/Resume.pdf).**
 
-![Profile views](https://gpvc.arturio.dev/mihailo-maksa)
+![](https://komarev.com/ghpvc/?username=mihailo-maksa)
