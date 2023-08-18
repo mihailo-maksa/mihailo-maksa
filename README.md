@@ -4,8 +4,8 @@ As a seasoned **smart contract engineer with over four years of experience,** I 
 
 Combining my technical proficiency with a native-level English fluency, **I am a skilled communicator, adept at remote collaboration,** and always focused on delivering results in this rapidly evolving sector.
 
-You can contact me via **[LinkedIn](https://www.linkedin.com/in/mihailomaksa)**, **[email](mailto:mihajlomaksa9@gmail.com)** or check out my **[personal website](https://mihailomaksa.com)** or **[resume](https://mihailomaksa.com/Resume.pdf).**
+You can contact me via my **[LinkedIn](https://www.linkedin.com/in/mihailomaksa)**, **[email](mailto:mihajlomaksa9@gmail.com)** or check out my **[personal website](https://mihailomaksa.com)** or **[resume](https://mihailomaksa.com/Resume.pdf).**
 
-Also, there is a possibility to directly book a call with me using my **[Calendly link](https://calendly.com/mihailo-maksa).**
+Also, feel free to directly book a call with me using my **[Calendly link](https://calendly.com/mihailo-maksa).**
 
 ![](https://komarev.com/ghpvc/?username=mihailo-maksa)
