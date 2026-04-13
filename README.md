@@ -1,11 +1,9 @@
-## **About Me**
+## About
 
-As a seasoned **smart contract engineer with over four years of experience,** I bring an in-depth understanding of **DeFi, NFTs, DAOs, dApps, EVM, cross-chain bridges, layer 2's like optimistic and zero knowledge (ZK) rollups and the wider web3 ecosystem.** With a specialty in **Solidity** smart contract development, I've contributed to numerous web3 projects since 2018. 
+I work on Solidity and EVM smart contract systems where mistakes are expensive and reliability matters.
 
-Combining my technical proficiency with a native-level English fluency, **I am a skilled communicator, adept at remote collaboration,** and always focused on delivering results in this rapidly evolving sector.
+My background spans DeFi, staking, cross-chain infrastructure, RWA, tokenization, oracles, and protocol design. Since 2018, I have delivered hundreds of production-ready smart contracts and supported systems through protocol architecture, implementation, audit preparation, and mainnet launch.
 
-You can contact me via my **[LinkedIn](https://www.linkedin.com/in/mihailomaksa)**, **[email](mailto:mihajlomaksa9@gmail.com)** or check out my **[personal website](https://mihailomaksa.com)** or **[resume](https://mihailomaksa.com/Resume.pdf).**
+Known for security-first execution, protocol-level thinking, and reliable delivery in remote, high-ownership environments.
 
-Also, feel free to directly book a call with me using my **[Calendly link](https://calendly.com/mihailo-maksa).**
-
-![](https://komarev.com/ghpvc/?username=mihailo-maksa)
+Links: [Website](https://mihailomaksa.com) · [LinkedIn](https://www.linkedin.com/in/mihailomaksa) · [Email](mailto:mihajlomaksa9@gmail.com)
